@@ -74,6 +74,6 @@
     <!-- Tiles -->
     <string name="game_mode_title">Mode</string>
     <string name="fps_Info_title">FPS info</string>
-    <string name="state_enabled">enabled</string>
-    <string name="state_disabled">disabled</string>
+    <string name="state_enabled">Enabled</string>
+    <string name="state_disabled">Disabled</string>
 </resources>
