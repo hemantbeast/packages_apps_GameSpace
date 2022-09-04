@@ -28,7 +28,6 @@
     <string name="three_screenshot_disabled_title">停用滑動截圖手勢</string>
     <string name="state_enabled">已啟用</string>
     <string name="state_disabled">已停用</string>
-    <!-- Game Mode -->
     <string name="game_mode_title">模式</string>
     <string name="game_mode_unsupported">不支援</string>
     <string name="game_mode_standard">一般</string>
@@ -50,7 +49,6 @@
     <string name="per_app_angle_summary">使用 ANGLE 渲染畫面而非原生的 GLES 驅動。\n警告！遊戲畫面可能出現破圖等現象，請謹慎使用。</string>
     <string name="cant_find_angle_pkg">您的系統不支援 ANGLE</string>
     <string name="per_app_unregister">從遊戲庫中移除 %1$s</string>
-    <!-- Custom seekbar -->
     <string name="custom_seekbar_value">數值： <xliff:g id="v">%s</xliff:g></string>
     <string name="custom_seekbar_default_value">預設</string>
     <string name="custom_seekbar_default_value_to_set">預設值：<xliff:g id="v">%s</xliff:g>\n長按以設定</string>
@@ -59,4 +57,6 @@
     <string name="adb_disabled_title">停用 USB 偵錯</string>
     <string name="battery_format">電量： <xliff:g id="percentage" example="100">%1$d%%</xliff:g></string>
     <string name="memory_format">Memory: <xliff:g id="availmemory" example="1000">%1$d</xliff:g>\/<xliff:g id="totalmemory" example="5000">%2$d</xliff:g> MB</string>
+    <string name="game_props_title">使用 GameProps</string>
+    <string name="game_props_summary">針對部分特定的遊戲將您的裝置偽裝成其他機型來解鎖更高的更新率</string>
 </resources>

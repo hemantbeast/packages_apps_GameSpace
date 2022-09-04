@@ -28,7 +28,6 @@
     <string name="three_screenshot_disabled_title">Desativar deslizar para capturar ecrã</string>
     <string name="state_enabled">ativado</string>
     <string name="state_disabled">desativado</string>
-    <!-- Game Mode -->
     <string name="game_mode_title">Modo</string>
     <string name="game_mode_unsupported">Não suportado</string>
     <string name="game_mode_standard">Padrão</string>
@@ -50,7 +49,6 @@
     <string name="per_app_angle_summary">A usar o renderizador ANGLE em vez de controladores GLES nativos.\nAVISO!! Pode quebrar os gráficos do jogo, use com cuidado!</string>
     <string name="cant_find_angle_pkg">ANGLE não está disponível no seu sistema</string>
     <string name="per_app_unregister">Remover %1$s da biblioteca</string>
-    <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Valor: <xliff:g id="value">%s</xliff:g></string>
     <string name="custom_seekbar_default_value">Por padrão</string>
     <string name="custom_seekbar_default_value_to_set">Valor padrão: <xliff:g id="v">%s</xliff:g>\nO Prima para definir</string>
